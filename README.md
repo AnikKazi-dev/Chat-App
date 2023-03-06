@@ -13,7 +13,7 @@
 * [Screenshots](#screenshots)
 * [About the Project](#about-the-project)
 * [Key Features](#key-features)
-* [Built With](#build)
+* [Built With](#built-with)
 * [Contact](#contact)
 
 ## Mockup
@@ -32,13 +32,14 @@
 
 ## About the project
 
-* **XXXXXX**: XXX.
-* **XXXX**: XXXXXXXX.
+* **Backend connection**: Firebase.
 
 ## Key Features
+* Signup and Login
+* Upload profile picture
+* Chat with friend 
+* Group chat
 
-* **State management**: Redux, BloC, repository patterns .
-* **Backend connection**: API provider pattern.
 
 ## Built With
 
